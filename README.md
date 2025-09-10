@@ -91,11 +91,3 @@ Si encuentras errores o tienes sugerencias de mejora, por favor:
 5. Push a la rama (`git push origin feature/mejora`)
 6. Crea un Pull Request
 
-## Citación
-```
-Pipeline RNA-seq basado en TCGA (2024)
-```
-
-## Contacto
-Clara Victoria García Chávez
-
