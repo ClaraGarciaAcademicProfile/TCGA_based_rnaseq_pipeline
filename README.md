@@ -1,10 +1,10 @@
  # RNA-seq Pipeline (TCGA-based)
 
-Pipeline para la generación de matrices de conteo a partir de datos de RNA-seq (es un flujo basado en el protocolo utilizado por TCGA).
+Pipeline para la generación de matrices de conteo a partir de datos de RNA-seq (es un flujo basado en el protocolo utilizado por TCGA: https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/Expression_mRNA_Pipeline/#star-fusion-pipeline).
 
 ## Descripción
 
-Este pipeline procesa datos de RNA-seq utilizando STAR para la alineación y genera matrices de conteo de genes. Es una adaptación del pipeline empleado por The Cancer Genome Atlas (TCGA).
+Este pipeline procesa datos de RNA-seq utilizando STAR para la alineación y genera matrices de conteo de genes. Es una adaptación del pipeline empleado por The Cancer Genome Atlas (TCGA), para procesar datos de diferentes consorcios y repositorios, uniformemente.
 
 ## Requisitos
 
