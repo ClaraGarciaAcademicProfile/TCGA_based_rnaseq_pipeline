@@ -4,7 +4,7 @@ Pipeline para la generación de matrices de conteo a partir de datos de RNA-seq 
 
 ## Descripción
 
-Este pipeline procesa datos de RNA-seq utilizando STAR para la alineación y genera matrices de conteo de genes. Es una adaptación del pipeline empleado por The Cancer Genome Atlas (TCGA), para procesar datos de diferentes consorcios y repositorios, uniformemente.
+Este pipeline procesa datos de RNA-seq utilizando STAR para la alineación y genera matrices de conteo de genes. Es una adaptación del pipeline empleado por The Cancer Genome Atlas (TCGA), para procesar datos de diferentes consorcios y repositorios, uniformemente. Configurado para generar counts que posteriormente serán normalizados
 
 ## Requisitos
 
